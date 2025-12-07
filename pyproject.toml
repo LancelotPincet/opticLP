@@ -1,6 +1,6 @@
 [project]
 name = "opticlp"
-version = "0.1.1"
+version = "0.1.2"
 description = "A library that calculates simple calculations for optical alignments."
 readme = "README.md"
 requires-python = ">=3.12"
