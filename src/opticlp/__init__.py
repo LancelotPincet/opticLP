@@ -11,9 +11,16 @@ A library that calculates simple calculations for optical alignments.
 
 
 
+# %% Source code
+sources = {
+
+}
+
+
+
 # %% Lazy imports
 from corelp import getmodule
-__getattr__, __all__ = getmodule(__file__)
+__getattr__, __all__ = getmodule(sources)
 
 
 
